@@ -26,7 +26,7 @@
       "sizes": "512x512",
       "type": "image/png"
     }],
-  "start_url": "/",
+  "start_url": "//www.mediaachmad.com",
   "display": "standalone",
   "background_color": "#de0985",
   "theme_color": "#de095b"
