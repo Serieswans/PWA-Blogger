@@ -30,7 +30,7 @@
   "display": "standalone",
   "background_color": "#de0985",
   "theme_color": "#de095b",
-     "theme": {
+"theme": {
       "colors": {
          "bookmark_text": [ 241, 243, 244 ],
          "button_background": [ 238, 238, 238, 0 ],
@@ -47,10 +47,6 @@
          "tab_text": [ 236, 239, 241 ],
          "toolbar": [ 82, 79, 82 ]
       },
-	  "images": {
-         "theme_ntp_background": "images/theme_ntp_background.png",
-         "theme_toolbar": "images/theme_toolbar.png"
-      },
       "properties": {
          "ntp_background_alignment": "center",
          "ntp_background_repeat": "no-repeat"
@@ -58,4 +54,5 @@
       "tints": {
          "buttons": [ 0, 0, 0.75 ]
       }
+   }
 }
