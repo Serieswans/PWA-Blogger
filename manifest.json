@@ -1,5 +1,5 @@
 {
-  "name": "Mediaachmad - Blogger Tutorial, SEO, Rombak Website",
+  "name": "Mediaachmad.com",
   "short_name": "Mediaachmad",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s128/Logo%2Bmediaachmad%2B2020.png",
@@ -30,6 +30,7 @@
   "display": "standalone",
   "background_color": "#437ff4",
   "theme_color": "#437ff4",
+  "description": "Media informasi Tips, Trik, Search Engine Optimization, Coding, Blogger dan Adsense, HTML, CSS, Javascript dengan membahas secara detail dan rinci.",
 "theme": {
       "colors": {
          "bookmark_text": [ 241, 243, 244 ],
