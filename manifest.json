@@ -1,35 +1,35 @@
 {
-  "name": "Mediaachmad",
+  "name": "Mediaachmad - Blogger Tutorial, SEO, Rombak Website",
   "short_name": "Mediaachmad",
   "icons": [{
-    "src": "//1.bp.blogspot.com/-z8_-4CJeBzE/XVSOeLTK1CI/AAAAAAAACx4/Ly4gxJiY2PcG3hjb2pcqSHDi18YzPb0aQCPcBGAYYCw/s1600/mediaachmad-128x128.png",
+    "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s128/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "128x128",
       "type": "image/png"
     }, {
-      "src": "//1.bp.blogspot.com/-xoVCA33loRI/XZcPo2bIvrI/AAAAAAAAC_k/3_wthiDTxC0rOWIxHeJkHNcSp_Ac8FJ7wCPcBGAYYCw/s1600/mediaachmad-144x144.png",
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s144/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "144x144",
       "type": "image/png"
     }, {
-      "src": "//1.bp.blogspot.com/-IoW5Upc-KYE/XVSOeJX1IeI/AAAAAAAACx8/0imnW4UDzR0Nl36AaG4B_wjqE3b-VjX3gCPcBGAYYCw/s1600/mediaachmad-152x152.png",
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s152/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "152x152",
       "type": "image/png"
     }, {
-      "src": "//1.bp.blogspot.com/-gGBOwgprzpo/XVSOfZpmY7I/AAAAAAAACyA/ZTKDe866Jf45AMyhEECcJglkeK2Jat42wCPcBGAYYCw/s1600/mediaachmad-192x192.png",
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s192/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "192x192",
       "type": "image/png"
     }, {
-      "src": "//1.bp.blogspot.com/-vdInSnY2bhg/XVSOfpVYQgI/AAAAAAAACyE/Bi1bWB1feTwFOyzWYwiF3rXU4x10dLkPgCPcBGAYYCw/s1600/mediaachmad-256x256.png",
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s256/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "256x256",
       "type": "image/png"
     }, {
-      "src": "//1.bp.blogspot.com/-kDGwerpek_M/XVSOfrb9GWI/AAAAAAAACyI/8KOOs-rfxoIwkoDY6cJxlbrSzwUwPQjtQCPcBGAYYCw/s1600/mediaachmad-512x512.png",
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s512/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "512x512",
       "type": "image/png"
     }],
-  "start_url": "//www.mediaachmad.com",
+  "start_url": "https://www.mediaachmad.com",
   "display": "standalone",
-  "background_color": "#de0985",
-  "theme_color": "#de095b",
+  "background_color": "#437ff4",
+  "theme_color": "#437ff4",
 "theme": {
       "colors": {
          "bookmark_text": [ 241, 243, 244 ],
