@@ -38,5 +38,8 @@
   "background_color": "#ffffff",
   "theme_color": "#437ff4",
   "orientation": "portrait-primary",
-  "description": "Media informasi Tips, Trik, Search Engine Optimization, Coding, Blogger dan Adsense, HTML, CSS, Javascript dengan membahas secara detail dan rinci."
+  "description": "Media informasi Tips, Trik, Search Engine Optimization, Coding, Blogger dan Adsense, HTML, CSS, Javascript dengan membahas secara detail dan rinci.",
+  "serviceworker": {
+   "src": "https://raw.githubusercontent.com/achmadsentosa22/clock/master/pwabuilder-sw.js"
+  }
 }
