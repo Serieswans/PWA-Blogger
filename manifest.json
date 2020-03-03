@@ -1,5 +1,5 @@
 {
-  "name": "Mediaachmad.com",
+  "name": "Mediaachmad",
   "short_name": "Mediaachmad",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s128/Logo%2Bmediaachmad%2B2020.png",
@@ -27,10 +27,11 @@
       "type": "image/png"
     }],
   "start_url": "https://www.mediaachmad.com",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#437ff4",
   "description": "Media informasi Tips, Trik, Search Engine Optimization, Coding, Blogger dan Adsense, HTML, CSS, Javascript dengan membahas secara detail dan rinci.",
+  "categories": ["Blogger", "SEO", "News", "Google AdSense", "Design UI", "Social Media"],
 "theme": {
       "colors": {
          "bookmark_text": [ 241, 243, 244 ],
