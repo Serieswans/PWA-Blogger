@@ -1,0 +1,42 @@
+{
+  "name": "Mediaachmad.com",
+  "short_name": "Mediaachmad",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s128/Logo%2Bmediaachmad%2B2020.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-QI1Q4C3DBqg/Xk-awhWXoSI/AAAAAAAADec/_j2-_9s2CAcBGNnQVpABznyIyaMg3qNIQCLcBGAsYHQ/s1600/newlogmediaachmad.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s152/Logo%2Bmediaachmad%2B2020.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s192/Logo%2Bmediaachmad%2B2020.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s256/Logo%2Bmediaachmad%2B2020.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s512/Logo%2Bmediaachmad%2B2020.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://www.mediaachmad.com",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#437ff4",
+  "orientation": "portrait-primary",
+  "description": "Media informasi Tips, Trik, Search Engine Optimization, Coding, Blogger dan Adsense, HTML, CSS, Javascript dengan membahas secara detail dan rinci."
+}
