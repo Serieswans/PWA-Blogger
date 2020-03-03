@@ -1,63 +1,138 @@
 {
   "name": "Mediaachmad",
   "short_name": "Mediaachmad",
-  "icons": [{
-    "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s128/Logo%2Bmediaachmad%2B2020.png",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s128/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "128x128",
       "type": "image/png"
-    }, {
+    },
+    {
       "src": "https://3.bp.blogspot.com/-QI1Q4C3DBqg/Xk-awhWXoSI/AAAAAAAADec/_j2-_9s2CAcBGNnQVpABznyIyaMg3qNIQCLcBGAsYHQ/s1600/newlogmediaachmad.png",
       "sizes": "144x144",
       "type": "image/png"
-    }, {
+    },
+    {
       "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s152/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "152x152",
       "type": "image/png"
-    }, {
+    },
+    {
       "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s192/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "192x192",
       "type": "image/png"
-    }, {
+    },
+    {
       "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s256/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "256x256",
       "type": "image/png"
-    }, {
+    },
+    {
       "src": "https://1.bp.blogspot.com/-_69VNlUicTg/XjFBsrXmb-I/AAAAAAAADac/0Gjx2_PNLJs-PBADtCewYMaER6Ii9Y6EACPcBGAYYCw/s512/Logo%2Bmediaachmad%2B2020.png",
       "sizes": "512x512",
       "type": "image/png"
-    }],
+    }
+  ],
   "start_url": "https://www.mediaachmad.com",
   "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#437ff4",
   "description": "Media informasi Tips, Trik, Search Engine Optimization, Coding, Blogger dan Adsense, HTML, CSS, Javascript dengan membahas secara detail dan rinci.",
-  "categories": ["Blogger", "SEO", "News", "Google AdSense", "Design UI", "Social Media"],
-	"serviceworker": {
-  "src": "./serviceworker.js"
-},
-"theme": {
-      "colors": {
-         "bookmark_text": [ 241, 243, 244 ],
-         "button_background": [ 238, 238, 238, 0 ],
-         "frame": [ 32, 33, 36 ],
-		 "frame_inactive": [ 60, 64, 67 ],
-         "frame_incognito": [ 32, 33, 36 ],
-         "frame_incognito_inactive": [ 60, 64, 67 ],
-         "ntp_background": [ 0, 0, 0 ],
-		 "ntp_section": [ 35, 35, 35 ],
-         "ntp_text": [ 236, 239, 241 ],
-		 "ntp_section_link": [ 210, 213, 213 ],
-         "ntp_section_text": [ 210, 213, 213 ],
-         "tab_background_text": [ 216, 219, 221 ],
-         "tab_text": [ 236, 239, 241 ],
-         "toolbar": [ 82, 79, 82 ]
-      },
-      "properties": {
-         "ntp_background_alignment": "center",
-         "ntp_background_repeat": "no-repeat"
-      },
-      "tints": {
-         "buttons": [ 0, 0, 0.75 ]
-      }
-   }
+  "categories": [
+    "Blogger",
+    "SEO",
+    "News",
+    "Google AdSense",
+    "Design UI",
+    "Social Media"
+  ],
+  "serviceworker": {
+    "src": "https://raw.githubusercontent.com/achmadsentosa22/clock/master/pwabuilder-sw.js"
+  },
+  "theme": {
+    "colors": {
+      "bookmark_text": [
+        241,
+        243,
+        244
+      ],
+      "button_background": [
+        238,
+        238,
+        238,
+        0
+      ],
+      "frame": [
+        32,
+        33,
+        36
+      ],
+      "frame_inactive": [
+        60,
+        64,
+        67
+      ],
+      "frame_incognito": [
+        32,
+        33,
+        36
+      ],
+      "frame_incognito_inactive": [
+        60,
+        64,
+        67
+      ],
+      "ntp_background": [
+        0,
+        0,
+        0
+      ],
+      "ntp_section": [
+        35,
+        35,
+        35
+      ],
+      "ntp_text": [
+        236,
+        239,
+        241
+      ],
+      "ntp_section_link": [
+        210,
+        213,
+        213
+      ],
+      "ntp_section_text": [
+        210,
+        213,
+        213
+      ],
+      "tab_background_text": [
+        216,
+        219,
+        221
+      ],
+      "tab_text": [
+        236,
+        239,
+        241
+      ],
+      "toolbar": [
+        82,
+        79,
+        82
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    },
+    "tints": {
+      "buttons": [
+        0,
+        0,
+        0.75
+      ]
+    }
+  }
 }
