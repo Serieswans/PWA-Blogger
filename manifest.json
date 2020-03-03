@@ -32,6 +32,9 @@
   "theme_color": "#437ff4",
   "description": "Media informasi Tips, Trik, Search Engine Optimization, Coding, Blogger dan Adsense, HTML, CSS, Javascript dengan membahas secara detail dan rinci.",
   "categories": ["Blogger", "SEO", "News", "Google AdSense", "Design UI", "Social Media"],
+	"serviceworker": {
+  "src": "./serviceworker.js"
+},
 "theme": {
       "colors": {
          "bookmark_text": [ 241, 243, 244 ],
