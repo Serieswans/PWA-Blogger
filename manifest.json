@@ -6,31 +6,37 @@
       "src": "https://1.bp.blogspot.com/-uRG7RLQjGT4/Xm9qzORDX1I/AAAAAAAABkw/pqPGG3XDgcYfgy9awHIyYrkhVnS7JrRigCLcBGAsYHQ/s1600/2289LOGO.ico",
       "type": "image/png",
       "sizes": "128x128"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-9Fm2B9URX_g/XlESd4Tcq-I/AAAAAAAABio/jYSWzB_EELA4N6w13-bCzit7KRV4JIsnQCLcBGAsYHQ/s1600/apple-icon-144x144.png",
       "type": "image/png",
       "sizes": "144x144"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-vpvOoyYMfMo/XlESfgxPHyI/AAAAAAAABiw/A7_jBIcBJiMSI2gmT7k8585mkoWhJpUcwCLcBGAsYHQ/s1600/apple-icon-152x152.png",
       "type": "image/png",
       "sizes": "152x152"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-OhRTgTLbmKY/Xm9psVP-oyI/AAAAAAAABkg/Hy_ozSgoiPMWeBy8t-Bvt1kURex8pNpqQCLcBGAsYHQ/s1600/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-yksnBTZJLG4/Xm9rJA4mH0I/AAAAAAAABk4/reknZImdUv4qAAK0lX8c3sIOv_SaubPLQCLcBGAsYHQ/s1600/logo_dB9_icon.ico",
       "type": "image/png",
       "sizes": "256x256"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-WcuHnrXH0F8/Xm9psZdZrdI/AAAAAAAABkc/xlMoFRrr0kYggYaBvTaB1qew_aAH3vPuACLcBGAsYHQ/s320/android-chrome-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+      "purpose": "any maskable"
     }
   ],
   "start_url": "https://www.serieswans.com",
