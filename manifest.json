@@ -1,44 +1,45 @@
 {
-    "name": "Serieswans",
+  "name": "Serieswans",
   "short_name": "Serieswans",
   "start_url": "https://www.serieswans.com/",
   "display": "standalone",
-  "background_color": "#fff",
+   "background_color": "#0575E6",
   "theme_color": "#0575E6",
-  "serviceworker": {
-   "src": "https://raw.githubusercontent.com/achmadsentosa22/clock/master/pwabuilder-sw.js"
-  },
   "description": "Blog yang membahas Tutorial Blogger, Android, Games, Komputer, Template, Bisnis, Tips Adsense, Tips Youtube, Tips SEO, Web Design dan Teknologi",
-   "icons": [
-    {
-      "src": "https://1.bp.blogspot.com/-uRG7RLQjGT4/Xm9qzORDX1I/AAAAAAAABkw/pqPGG3XDgcYfgy9awHIyYrkhVnS7JrRigCLcBGAsYHQ/s1600/2289LOGO.ico",
-      "type": "image/png",
-      "sizes": "128x128"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-9Fm2B9URX_g/XlESd4Tcq-I/AAAAAAAABio/jYSWzB_EELA4N6w13-bCzit7KRV4JIsnQCLcBGAsYHQ/s1600/apple-icon-144x144.png",
-      "type": "image/png",
-      "sizes": "144x144"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-vpvOoyYMfMo/XlESfgxPHyI/AAAAAAAABiw/A7_jBIcBJiMSI2gmT7k8585mkoWhJpUcwCLcBGAsYHQ/s1600/apple-icon-152x152.png",
-      "type": "image/png",
-      "sizes": "152x152"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-OhRTgTLbmKY/Xm9psVP-oyI/AAAAAAAABkg/Hy_ozSgoiPMWeBy8t-Bvt1kURex8pNpqQCLcBGAsYHQ/s1600/android-chrome-192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-yksnBTZJLG4/Xm9rJA4mH0I/AAAAAAAABk4/reknZImdUv4qAAK0lX8c3sIOv_SaubPLQCLcBGAsYHQ/s1600/logo_dB9_icon.ico",
-      "type": "image/png",
-      "sizes": "256x256"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-WcuHnrXH0F8/Xm9psZdZrdI/AAAAAAAABkc/xlMoFRrr0kYggYaBvTaB1qew_aAH3vPuACLcBGAsYHQ/s320/android-chrome-512x512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-HcXZJ-6YzGY/Xx6TKTaf47I/AAAAAAAABxo/tqWzezcZaS8pXw599AGQfyE_e8ufr6TjACLcBGAsYHQ/s0/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_JNnnGiRqmE/Xx6TKUIM1pI/AAAAAAAABxw/MnGrKrDIJbkvlhdSf0cVJbsKcTsrJPTNgCLcBGAsYHQ/s0/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GzqcxWHUAZk/Xx6TKQopCCI/AAAAAAAABxs/qwNJ9L9v604u0QF6wtgV33tRXD-Ffm3BACLcBGAsYHQ/s0/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HMe7rRaDLLM/Xx6TLAjhucI/AAAAAAAABx0/IBybrtT_rdkNNfmHzd1qgE09T_nULvIjgCLcBGAsYHQ/s0/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9Fm2B9URX_g/XlESd4Tcq-I/AAAAAAAABio/jYSWzB_EELA4N6w13-bCzit7KRV4JIsnQCLcBGAsYHQ/s1600/apple-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OhRTgTLbmKY/Xm9psVP-oyI/AAAAAAAABkg/Hy_ozSgoiPMWeBy8t-Bvt1kURex8pNpqQCLcBGAsYHQ/s1600/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WcuHnrXH0F8/Xm9psZdZrdI/AAAAAAAABkc/xlMoFRrr0kYggYaBvTaB1qew_aAH3vPuACLcBGAsYHQ/s320/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
 }
