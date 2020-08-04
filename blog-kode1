@@ -34,3 +34,9 @@ var _0xe022=["\x69\x6D\x67","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x7
 .lazy{animation:ignielShine 1s linear infinite;-moz-animation:ignielShine 1s linear infinite;-webkit-animation:ignielShine 1s linear infinite;-o-animation:ignielShine 1s linear infinite;background:#f5f5f5 linear-gradient(to right,rgba(255,255,255,0) 5%,rgba(255,255,255,.78) 20%,rgba(255,255,255,0) 30%);background-size:800px 104px}.Night .lazy{background:#212543 linear-gradient(to right,rgba(255,255,255,0) 5%,rgb(49,54,64) 20%,rgba(255,255,255,0) 30%);background-size:800px 104px}@keyframes ignielShine{0%{background-position:-400px 0}100%{background-position:400px 0}}@-webkit-keyframes ignielShine{0%{background-position:-400px 0}100%{background-position:400px 0}}@-moz-keyframes ignielShine{0%{background-position:-400px 0}100%{background-position:400px 0}}@-webkit-keyframes ignielShine{from{width:0%}to{width:100%}}@-moz-keyframes ignielShine{from{width:0%}to{width:100%}}@keyframes ignielShine{0%{background-position:-400px 0}100%{background-position:400px 0}}@-webkit-keyframes ignielShine{0%{background-position:-400px 0}100%{background-position:400px 0}}@-moz-keyframes ignielShine{0%{background-position:-400px 0}100%{background-position:400px 0}}@keyframes ignielZoom{from{width:0%}to{width:100%}}@-webkit-keyframes ignielShine{from{width:0%}to{width:100%}}@-moz-keyframes ignielShine{from{width:0%}to{width:100%}}
 </style>
 
+<!-- <b:if cond='data:top.showTimestamp'>
+ <span class='time-info'><span class='updated published' expr:title='data:post.timestampISO8601'>
+ <meta expr:content='data:post.timestampISO8601' itemprop='datePublished'/>
+  <data:post.timestamp/>
+ </span></span>
+</b:if> -->
